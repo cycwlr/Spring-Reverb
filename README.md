@@ -1,5 +1,7 @@
 # Spring Reverb
 
+Exported .pdf and .png files are in the export/ folder
+
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) project!
