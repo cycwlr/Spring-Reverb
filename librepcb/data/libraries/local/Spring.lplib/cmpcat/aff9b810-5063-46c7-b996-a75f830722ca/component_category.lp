@@ -1,0 +1,10 @@
+(librepcb_component_category aff9b810-5063-46c7-b996-a75f830722ca
+ (name "Spring Tank")
+ (description "")
+ (keywords "")
+ (author "cycwlr")
+ (version "0.1")
+ (created 2025-11-28T20:34:15Z)
+ (deprecated false)
+ (parent b3adfa1e-b878-44f6-902a-14ef3dad7a14)
+)

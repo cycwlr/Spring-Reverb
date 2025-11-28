@@ -1,0 +1,11 @@
+(librepcb_library c2cee9c7-5a60-4ca0-85ad-e6d07c9931c2
+ (name "Spring Tank")
+ (description "spring tank")
+ (keywords "")
+ (author "cyril")
+ (version "0.1")
+ (created 2025-11-28T20:28:43Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

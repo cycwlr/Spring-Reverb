@@ -1,0 +1,17 @@
+(librepcb_package 5c5f905e-ca86-4482-b858-17fa61b0853a
+ (name "Spring Tank")
+ (description "")
+ (keywords "")
+ (author "cycwlr")
+ (version "0.1")
+ (created 2025-11-28T20:39:40Z)
+ (deprecated false)
+ (generated_by "")
+ (category f4e98c9c-a823-4a2a-b787-f4d7d11172d8)
+ (assembly_type auto)
+ (footprint 2c4357a1-b568-45fd-bd6a-9b7a5dfce465
+  (name "default")
+  (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+ )
+)
