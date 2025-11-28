@@ -5,12 +5,15 @@
 # a new issue on our issue tracker: https://github.com/LibrePCB/LibrePCB/issues
 
 # LibrePCB files
-.autosave/
-.backup/
-user/
-*.user.lp
-.lock
-*~
+librepcb/.autosave/
+librepcb/.backup/
+librepcb/user/
+librepcb/*.user.lp
+librepcb/.lock
+librepcb/*~
+
+# KiCad files
+kicad/*/*backups
 
 # Files created by operating systems or file managers
 .DS_Store
