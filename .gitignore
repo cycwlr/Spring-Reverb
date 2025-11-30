@@ -9,7 +9,7 @@ librepcb/.autosave/
 librepcb/.backup/
 librepcb/user/
 librepcb/*.user.lp
-librepcb/.lock
+librepcb/data/.lock
 librepcb/*~
 
 # KiCad files
