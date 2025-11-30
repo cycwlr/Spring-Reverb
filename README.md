@@ -1,5 +1,10 @@
 # Spring Reverb
 
+## Version
+Right now the project is v1.O.
+
+It's a fully working prototype, but still a breadboard prototype.
+
 ## Description
 I wanted to design my own analog spring reverb schematic that would work with most of the spring tanks available on the market (Accutronics Type 4 and Type 8 for example).
 

@@ -4,7 +4,7 @@ Spring Reverb Parts List v1
 Name        Value
 
 U1/U2       TL072 opamp
-U3/U4       TL072 opamps
+U3/U4       TL072 opamp
 
 D1          Diode 1N4007
 
@@ -31,8 +31,8 @@ R10         Potentiometer 100k lin
 R11         Resistor 470k
 R12         Resistor 470k
 
-S1          2SPDT toggle switches
-S2          2SPDT toggle switches
+S1          2SPDT toggle switch
+S2          2SPDT toggle switch
 
-T1          Accutronics spring tank
-T2          Accutronics spring tank
+T1          Accutronics 8BB2C1B spring tank
+T2          Accutronics 4BB3C1B spring tank
