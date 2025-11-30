@@ -125,8 +125,8 @@
   (text 33444f24-2d38-4d10-9e86-c7a699967f2d (layer sym_names) (value "T1")
    (align left bottom) (height 2.5) (position 38.1 27.94) (rotation 90.0)
   )
-  (text cedff03f-6fb5-4e34-8d63-4245124de7fa (layer sym_values) (value "{{VALUE}}")
-   (align left top) (height 2.5) (position 35.56 40.64) (rotation 90.0)
+  (text cedff03f-6fb5-4e34-8d63-4245124de7fa (layer sym_values) (value "Accutronics 8BB2C1B")
+   (align left top) (height 2.5) (position 35.56 33.02) (rotation 90.0)
   )
  )
  (symbol 48fcf597-aecd-461f-9d35-cba269da020e
@@ -202,8 +202,8 @@
   (text 33444f24-2d38-4d10-9e86-c7a699967f2d (layer sym_names) (value "T2")
    (align left bottom) (height 2.5) (position 73.66 48.26) (rotation 270.0)
   )
-  (text cedff03f-6fb5-4e34-8d63-4245124de7fa (layer sym_values) (value "{{VALUE}}")
-   (align left top) (height 2.5) (position 76.2 35.56) (rotation 270.0)
+  (text cedff03f-6fb5-4e34-8d63-4245124de7fa (layer sym_values) (value "Accutronics 4BB3C1B")
+   (align left top) (height 2.5) (position 76.2 43.18) (rotation 270.0)
   )
  )
  (symbol 7ebeced4-3792-4cd2-9544-f7611673e8ec

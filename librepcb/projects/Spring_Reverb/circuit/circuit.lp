@@ -95,7 +95,7 @@
  (component 0f69ce6a-4406-487d-ae6a-488667f592a8
   (lib_component 3373e04c-4305-4d8b-9963-750f786390cd)
   (lib_variant 9520c69c-347d-4191-ada8-20d25f973315)
-  (name "R5") (value "100k")
+  (name "R5") (value "B10k")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (signal ace03f7d-91c6-4b77-95ce-2bfaa45f8285 (net a84d5f6c-7bb8-44cb-8832-8bc245840570))
@@ -130,7 +130,7 @@
  (component 2b7eef38-a923-419e-8eb0-9c958f5f1a7d
   (lib_component 3373e04c-4305-4d8b-9963-750f786390cd)
   (lib_variant 9520c69c-347d-4191-ada8-20d25f973315)
-  (name "R10") (value "100k")
+  (name "R10") (value "B100k")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (signal ace03f7d-91c6-4b77-95ce-2bfaa45f8285 (net 3edd2344-17a6-4713-9533-339f319fdc88))
@@ -167,7 +167,7 @@
  (component 3957a652-a72d-4959-8d55-52787a4a2cda
   (lib_component a1253f34-16e6-4bf5-babf-7f76bc615d04)
   (lib_variant ffc93df1-965f-410b-90b4-3262fc8828d1)
-  (name "U2") (value "TL072")
+  (name "U1-B") (value "TL072")
   (lock_assembly false)
   (signal 50a4a4cc-799b-4413-992f-a8e6822f3826 (net 14f10818-a544-408d-a9ef-6992f9ae8368))
   (signal 89e56ad2-1b11-4fa7-a8c5-f616147af19f (net 0579e5d7-62ac-4a91-98d4-549429530cd2))
@@ -221,7 +221,7 @@
  (component 5b9cec31-b9c1-4e10-a2d4-da10c3c953ce
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
   (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
-  (name "R8") (value "100k")
+  (name "R8") (value "10k")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 37cc1a7c-6fbf-41bb-a220-82d5e7790e38))
@@ -255,7 +255,7 @@
  (component 7223a0dc-1bbb-4246-9f4a-d18de52b5035
   (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
   (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
-  (name "C4") (value "{{CAPACITANCE}}")
+  (name "C4") (value "4,7nF")
   (lock_assembly false)
   (attribute "CAPACITANCE" (type capacitance) (unit nanofarad) (value ""))
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net cf0a8012-69ea-4774-bd22-6b4cd9f7a13a))
@@ -264,7 +264,7 @@
  (component 791bb76a-27c2-4cd0-b51f-a7447c17dfd4
   (lib_component a1253f34-16e6-4bf5-babf-7f76bc615d04)
   (lib_variant ffc93df1-965f-410b-90b4-3262fc8828d1)
-  (name "U1") (value "TL072")
+  (name "U1-A") (value "TL072")
   (lock_assembly false)
   (signal 50a4a4cc-799b-4413-992f-a8e6822f3826 (net 272d7e28-15b0-4c2a-ae8c-e569911be592))
   (signal 89e56ad2-1b11-4fa7-a8c5-f616147af19f (net 0579e5d7-62ac-4a91-98d4-549429530cd2))
@@ -275,7 +275,7 @@
  (component 7cb06432-5d4e-4c15-8728-67fff355d4b8
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
   (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
-  (name "R9") (value "10k")
+  (name "R9") (value "6k8")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 4fd47496-9849-48e8-9dfd-ce5c07121400))
@@ -284,7 +284,7 @@
  (component 807fa202-d349-40a0-8560-027ae5c6c57a
   (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
   (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
-  (name "C5") (value "{{CAPACITANCE}}")
+  (name "C5") (value "22nF")
   (lock_assembly false)
   (attribute "CAPACITANCE" (type capacitance) (unit nanofarad) (value ""))
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 637d0ce6-a425-4399-8ecb-37320b520468))
@@ -382,7 +382,7 @@
  (component ccfa6dce-c123-4f42-9efc-cca64b4777ae
   (lib_component a1253f34-16e6-4bf5-babf-7f76bc615d04)
   (lib_variant ffc93df1-965f-410b-90b4-3262fc8828d1)
-  (name "U4") (value "TL072")
+  (name "U2-B") (value "TL072")
   (lock_assembly false)
   (signal 50a4a4cc-799b-4413-992f-a8e6822f3826 (net 917d138a-4dee-4864-a4a4-5d7adf47181e))
   (signal 89e56ad2-1b11-4fa7-a8c5-f616147af19f (net 0579e5d7-62ac-4a91-98d4-549429530cd2))
@@ -470,7 +470,7 @@
  (component f5fd16f8-e1f4-49ea-8a46-fe64ef466cea
   (lib_component a1253f34-16e6-4bf5-babf-7f76bc615d04)
   (lib_variant ffc93df1-965f-410b-90b4-3262fc8828d1)
-  (name "U3") (value "TL072")
+  (name "U2-1") (value "TL072")
   (lock_assembly false)
   (signal 50a4a4cc-799b-4413-992f-a8e6822f3826 (net 907d65d1-4bcf-422f-9f4c-c7b947fc66fe))
   (signal 89e56ad2-1b11-4fa7-a8c5-f616147af19f (net 0579e5d7-62ac-4a91-98d4-549429530cd2))

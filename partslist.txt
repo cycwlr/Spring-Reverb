@@ -1,35 +1,35 @@
 Spring Reverb Parts List v1
 
 
-Name        Value
+Name        Type
 
-U1/U2       TL072 opamp
-U3/U4       TL072 opamp
+U1          TL072 OpAmp
+U2          TL072 OpAmp
 
 D1          Diode 1N4007
 
-C1          Capacitor 100nF
-C2          Capacitor 10uF
-C3          Capacitor 10uF
-C4          Capacitor
-C5          Capacitor
-C6          Capactior 100nF
-C7          Capacitor 47uF
-C8          Capacitor 100uF
-C9          Capacitor 100nF
+C1          Ceramic capacitor 100nF
+C2          Electrolytic Capacitor 10uF
+C3          Electrolytic Capacitor 10uF
+C4          Ceramic capacitor 4,7nF
+C5          Ceramic capacitor 22nF
+C6          Ceramic Capactior 100nF
+C7          Electrolytic Capacitor 47uF
+C8          Electrolytic capacitor 100uF
+C9          Ceramic capacitor 100nF
 
-R1          Resistor 470k
-R2          Resistor 470k
-R3          Resistor 1M
+R1          Resistor 470k ohms
+R2          Resistor 470k ohms
+R3          Resistor 1M ohms
 R4          Resistor 680 ohms
-R5          Potentiometer 100k lin
-R6          Resistor 47k
-R7          Resistor 47k
-R8          Resistor 100k
-R9          Resistor 10k
-R10         Potentiometer 100k lin
-R11         Resistor 470k
-R12         Resistor 470k
+R5          Potentiometer B10k ohms
+R6          Resistor 47k ohms
+R7          Resistor 47k ohms
+R8          Resistor 10k ohms
+R9          Resistor 6k8 ohms
+R10         Potentiometer B100k ohms
+R11         Resistor 470k ohms
+R12         Resistor 470k ohms
 
 S1          2SPDT toggle switch
 S2          2SPDT toggle switch
