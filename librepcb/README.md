@@ -1,6 +1,7 @@
 # Spring Reverb
 
 ## Description
-This is a [LibrePCB](https://librepcb.org) project!
+[LibrePCB](https://librepcb.org) files of my analog spring reverb project.
 
-LibrePCB files of my spring reverb project
+## License
+GNU GPL v3
