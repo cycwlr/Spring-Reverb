@@ -1,7 +1,7 @@
 # Spring Reverb
 
 ## Version
-Right now the project is v1.O.
+Right now the project is v1.0
 
 It's a fully working prototype, but still a breadboard prototype.
 
@@ -13,4 +13,4 @@ The idea was to make something similar to the [Anasound Element Spring Reverb](h
 This project is not a clone of the Anasound Element. 
 
 ## License
-GNU GPL v3
+GNU GPL v3, see LICENSE file
