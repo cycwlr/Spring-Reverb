@@ -22,14 +22,15 @@ R1          Resistor 470k ohms
 R2          Resistor 470k ohms
 R3          Resistor 1M ohms
 R4          Resistor 680 ohms
-R5          Potentiometer B10k ohms
 R6          Resistor 47k ohms
-R7          Resistor 47k ohms
-R8          Resistor 10k ohms
-R9          Resistor 6k8 ohms
-R10         Potentiometer B100k ohms
-R11         Resistor 470k ohms
-R12         Resistor 470k ohms
+R6          Resistor 47k ohms
+R7          Resistor 10k ohms
+R8          Resistor 6k8 ohms
+R9          Resistor 470k ohms
+R10         Resistor 470k ohms
+
+RV1         Potentiometer B10k ohms
+RV2         Potentiometer B100k ohms
 
 S1          2SPDT toggle switch
 S2          2SPDT toggle switch
